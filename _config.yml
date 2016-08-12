@@ -4,8 +4,8 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-#url: https://y7kim.github.io
-#baseurl: /agency-jekyll-theme/
+url: https://chiuro.github.io
+baseurl: /agency-jekyll/
 
 # Site settings
 title: RES
