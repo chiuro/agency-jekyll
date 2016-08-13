@@ -5,10 +5,10 @@ host: 0.0.0.0
 safe: false
 
 url: https://chiuro.github.io
-baseurl: /agency-jekyll/
+#baseurl: /agency-jekyll
 
 # Site settings
-title: RES
+title: RES s.c.s.
 email: your-email@domain.com
 description: "Ricerca Educativa Servizio"
 
