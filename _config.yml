@@ -11,7 +11,7 @@ baseurl: /agency-jekyll
 title: RES s.c.s.
 email: your-email@domain.com
 description: "Ricerca Educativa Servizio"
-logo: img/logo-res.png
+logo: logo-res.png
 
 # Team names, titles and social links
 people:
