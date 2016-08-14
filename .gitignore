@@ -1,6 +1,7 @@
 _site
 *~
-.xcf
+*.bak
+*.xcf
 
 # Windows image file caches
 Thumbs.db
