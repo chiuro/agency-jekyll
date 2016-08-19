@@ -5,7 +5,7 @@ host: 0.0.0.0
 safe: false
 
 url: https://chiuro.github.io
-baseurl: /agency-jekyll
+baseurl: /res-agency-jekyll
 
 # Site settings
 title: RES s.c.s.
